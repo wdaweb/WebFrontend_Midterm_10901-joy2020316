@@ -1,0 +1,61 @@
+body{
+	font-family: microsoft jhenghei;
+}
+#banner img{
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 1920px;
+	height: 1080px;
+}
+
+#skills {
+	padding: 100px auto;
+}
+
+#design{
+	margin-top: 30px;
+}
+
+
+#content{
+	background-color: #545669;
+}
+#content h4{
+	color: #aeffa2;
+}
+.row .col-lg:nth-child(1){
+	background-color: rgba(0, 0, 0, 0.035);
+}
+.row .col-lg:nth-child(2){
+	background-color: rgba(0, 0, 0, 0.07);
+}
+.row .col-lg:nth-child(3){
+	background-color: rgba(0, 0, 0, 0.105);
+}	
+.row .col-lg:nth-child(4){
+	background-color: rgba(0, 0, 0, 0.14);
+}
+.row .col-lg:nth-child(5){
+	background-color: rgba(0, 0, 0, 0.035);
+}
+.row .col-lg:nth-child(6){
+	background-color: rgba(0, 0, 0, 0.07);
+}
+.row .col-lg:nth-child(7){
+	background-color: rgba(0, 0, 0, 0.105);
+}	
+.row .col-lg:nth-child(8){
+	background-color: rgba(0, 0, 0, 0.14);
+}
+.row .col-lg:nth-child(13){
+	background-color: rgba(0, 0, 0, 0.035);
+}
+.row .col-lg:nth-child(14){
+	background-color: rgba(0, 0, 0, 0.07);
+}
+
+
+
+
