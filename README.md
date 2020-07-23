@@ -25,5 +25,7 @@
 6. **GitPage 上傳 / 10 分**
 <br>使用個人 Github 帳號上傳 repository 並開啟 Github Page 功能（複製連結提供繳交說明）。
 
+ Github Page https://joy2020316.github.io/WebFrontend_Midterm_10901-joy2020316/
+
 ## 繳交方式
 完整代碼上傳 Github ClassRoom 至指定 repository，並於說明欄位提供 個人 GitPage 之預覽連結（前項第 6 點動作）
